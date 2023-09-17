@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile Programming 2</string>
+    <string name="hasil">Hasil</string>
+    <string name="btn_hitung">Hitung</string>
+    <string name="panjang">Panjang</string>
+    <string name="latihan_activity">Latihan Activity</string>
+    <string name="activity_hitung">Activity Hitung</string>
+    <string name="tutup_activity">Tutup Activity</string>
+    <string name="lebar">Lebar</string>
+</resources>
