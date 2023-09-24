@@ -30,7 +30,6 @@ class HitungActivity : AppCompatActivity(), View.OnClickListener {
             tvResult.text = result
         }
 
-
         //listener registration
         btnCalculate.setOnClickListener(this)
     }
